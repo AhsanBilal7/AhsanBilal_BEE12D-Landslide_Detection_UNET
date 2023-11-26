@@ -2,12 +2,12 @@
 
 ## Group Members
 
-- **John Doe**
-  - Registration Number: ABC123
-- **Jane Smith**
-  - Registration Number: XYZ456
-- **Alice Johnson**
-  - Registration Number: DEF789
+- **Ahsan Bilal**
+  - Registration Number: 341480
+- **Muhammad Haseeb**
+  - Registration Number: 345783 
+- **Uzair Shabbir**
+  - Registration Number: 336729 
 
 ## Abstract
 
@@ -21,6 +21,7 @@ Landslides pose significant threats to communities and infrastructure, necessita
    - Acquired a diverse dataset of satellite images encompassing regions prone to landslides.
 
 2. **Data Preprocessing:**
+   - Labeled the Training and testing data using the Some of the robust applications i.e. LabelMe.
    - Conducted image preprocessing to enhance features and prepare the dataset for model training.
 
 3. **Model Architecture:**
@@ -42,4 +43,6 @@ Landslides pose significant threats to communities and infrastructure, necessita
 
 1. Clone the repository to your local machine.
    ```bash
-   git clone https://github.com/your-username/semester-project.git
+   git clone https://github.com/AhsanBilal7/AhsanBilal_BEE12D-Landslide_Detection_UNET.git
+2. Install LabelMe.
+   
